@@ -1,0 +1,3 @@
+[submodule "xterm256"]
+	path = xterm256
+	url = https://github.com/BlueCocoa/xterm256
